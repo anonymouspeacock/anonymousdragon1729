@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anonymousdragon1729
+- 👋 Hi, I’m @anonymouspeacock1729
 - 👀 I’m interested in MultiModal Fake News Detection
 - 🌱 This is for a CVPR Submission
 
